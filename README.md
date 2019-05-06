@@ -13,9 +13,9 @@ Attached is a link of video of the game Minesweeper running
 # Built With
 This game was built with IntelliJ 2017
 
-https://user-images.githubusercontent.com/44792189/57235901-9175f280-6fe9-11e9-9785-f6ad5af86628.png
+<img src = "https://user-images.githubusercontent.com/44792189/57235901-9175f280-6fe9-11e9-9785-f6ad5af86628.png">
 
-https://user-images.githubusercontent.com/44792189/57235959-aa7ea380-6fe9-11e9-9bfa-035f159c733b.png
+<img src = "https://user-images.githubusercontent.com/44792189/57235959-aa7ea380-6fe9-11e9-9bfa-035f159c733b.png">
 
 # Authors
 Jacob Grady
